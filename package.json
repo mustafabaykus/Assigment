@@ -1,0 +1,16 @@
+{
+  "name": "assigment",
+  "version": "1.0.0",
+  "description": "fetch request using node JS",
+  "main": "assigment.js",
+  "type": "module",
+  "scripts": {
+    "test": "testing",
+    "start": "node assigment.js"
+  },
+  "author": "Mustafa Baykus",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  }
+}
